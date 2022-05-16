@@ -10,7 +10,7 @@ This is a landing page for Horiseon Social Solution Services which provide optim
 * CSS
 
 Website
-https://evgeniii7.github.io/01-challenge-HTML-Git-CSS/
+
 
 
 ![ScreenShot](assets/images/SCRIN.imj.png)
